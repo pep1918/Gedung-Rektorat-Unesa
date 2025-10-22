@@ -1,6 +1,6 @@
 # 🏛️ Gedung Rektorat UNESA (C++ & OpenGL/GLUT)
 
-> Proyek simulasi 3D Gedung Rektorat Universitas Negeri Surabaya (UNESA), dibangun menggunakan **C++** dengan **OpenGL (GLUT)** untuk visualisasi grafis interaktif.
+> Proyek simulasi 2D Gedung Rektorat Universitas Negeri Surabaya (UNESA), dibangun menggunakan **C++** dengan **OpenGL (GLUT)** untuk visualisasi grafis interaktif.
 
 ---
 
@@ -34,7 +34,7 @@ Dibuat untuk pembelajaran **Grafika Komputer**, proyek ini mengimplementasikan k
 ---
 
 ## 🧠 Konsep yang Diterapkan
-- Model 3D berbasis primitive shapes (cube, polygon)
+- Model 2D berbasis primitive shapes (cube, polygon)
 - Implementasi koordinat dunia & lokal
 - Transformasi geometris menggunakan matriks
 - Simulasi lighting dengan `glLightfv()`
